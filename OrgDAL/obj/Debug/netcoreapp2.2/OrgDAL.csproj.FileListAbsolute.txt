@@ -1,0 +1,6 @@
+C:\Workspace\OrganizationServices\OrgDAL\bin\Debug\netcoreapp2.2\OrgDAL.deps.json
+C:\Workspace\OrganizationServices\OrgDAL\bin\Debug\netcoreapp2.2\OrgDAL.dll
+C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netcoreapp2.2\OrgDAL.csprojAssemblyReference.cache
+C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netcoreapp2.2\OrgDAL.csproj.CoreCompileInputs.cache
+C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netcoreapp2.2\OrgDAL.AssemblyInfoInputs.cache
+C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netcoreapp2.2\OrgDAL.AssemblyInfo.cs

@@ -1,6 +1,0 @@
-C:\Workspace\OrganizationServices\OrgDAL\bin\Debug\netstandard2.0\OrgDAL.deps.json
-C:\Workspace\OrganizationServices\OrgDAL\bin\Debug\netstandard2.0\OrgDAL.dll
-C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netstandard2.0\OrgDAL.csprojAssemblyReference.cache
-C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netstandard2.0\OrgDAL.csproj.CoreCompileInputs.cache
-C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netstandard2.0\OrgDAL.AssemblyInfoInputs.cache
-C:\Workspace\OrganizationServices\OrgDAL\obj\Debug\netstandard2.0\OrgDAL.AssemblyInfo.cs
